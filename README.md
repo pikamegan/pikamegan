@@ -1,5 +1,4 @@
 ### Hi, I'm Megan! 
-![](https://visitor-badge.glitch.me/badge?page_id=pikamegan.pikamegan)
 
 <br>I'm an aspiring Data Scientist/Software Engineer from Malaysia, studying Information Systems at Singapore Management University.
 <br>
@@ -14,6 +13,8 @@ Keep in touch here:<br>
 </a><br><br>
 
 [![Megan's github stats](https://github-readme-stats.vercel.app/api?username=pikamegan)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=pikamegan.pikamegan)
 
   
 <!--
