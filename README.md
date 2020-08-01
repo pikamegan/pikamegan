@@ -6,7 +6,7 @@ I am an intern at [Levels Ventures](https://www.levelsventures.com/), researchin
 I volunteer for [The OpenCode Foundation](https://www.theopencode.org/) and am a member of the [Coronavirus Visualization Team](https://scholar.harvard.edu/cvt/teams-and-projects).
 <br>
 Off the screen, I like reading and listening to music.
-<br>
+<br><br>
 Keep in touch here:<br>
 <a href="https://www.linkedin.com/in/megan-thong/">
   <img align="left" alt="Megan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
