@@ -12,8 +12,7 @@ Keep in touch here:<br>
   <img align="left" alt="Megan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
-<br>
-[![Megan's github stats](https://github-readme-stats.vercel.app/api?username=pikamegan)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Megan's github stats](https://github-readme-stats.vercel.app/api?username=pikamegan)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <!--
