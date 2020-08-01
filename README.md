@@ -1,4 +1,5 @@
-### Hi, I'm Megan! [](https://visitor-badge.glitch.me/badge?page_id=pikamegan.pikamegan)
+### Hi, I'm Megan! 
+![](https://visitor-badge.glitch.me/badge?page_id=pikamegan.pikamegan)
 
 <br>I'm an aspiring Data Scientist/Software Engineer from Malaysia, studying Information Systems at Singapore Management University.
 <br>
