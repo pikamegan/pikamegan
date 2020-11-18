@@ -2,7 +2,7 @@
 
 I'm an aspiring Data Scientist/Software Engineer from Malaysia, studying Information Systems at Singapore Management University.
 <br>
-I am an intern at [Levels Ventures](https://www.levelsventures.com/), researching Digital Twins and understanding its benefits for Smart Cities.<br>
+I interned at [Levels Ventures](https://www.levelsventures.com/), researching Digital Twins for Smart Cities. You can view [my research here](https://drive.google.com/file/d/1f9DM11SFwiSt-xNGC5yZEYx3bxtZhpWU/view).<br>
 I volunteer for [The OpenCode Foundation](https://www.theopencode.org/) and am a member of the [Coronavirus Visualization Team](https://scholar.harvard.edu/cvt/teams-and-projects).
 <br>
 Off the screen, I like reading and listening to music.
