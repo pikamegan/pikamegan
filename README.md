@@ -12,7 +12,7 @@ Connect with me on LinkedIn!
   <img align="left" alt="Megan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><br><br>
 
-[![Megan's github stats](https://github-readme-stats.vercel.app/api?username=pikamegan&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Megan's github stats](https://github-readme-stats.vercel.app/api?username=pikamegan&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pikamegan.pikamegan)
 
